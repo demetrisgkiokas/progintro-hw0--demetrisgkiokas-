@@ -5,3 +5,4 @@ bandit2: CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
 bandit3: UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
 bandit4: pIwrPrtPN36QITSp3EQaw936yaFoFgAB
 bandit5: koReBOKuIDDepwhWk7jZC0RTdopnAYKh
+bandit6: DXjZPULLxYr17uwoI01bNLQbtFemEgo7
