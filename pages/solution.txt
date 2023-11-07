@@ -9,3 +9,5 @@ bandit6: DXjZPULLxYr17uwoI01bNLQbtFemEgo7
 bandit7: HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
 bandit8: cvX2JJa4CFALtqS87jk27qwqGhBM9plV
 bandit9: UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR
+bandit10: truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk
+bandit11: IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR
